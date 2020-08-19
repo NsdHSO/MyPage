@@ -41,7 +41,8 @@ const ListTodos = () => {
             <table className = "table table-hover mt-5 text center">
                 <thead>
                     <tr>
-                        <th className = "table-info">Description</th>
+                        <th className = "table-info">Meeting description
+</th>
                         <th className = "table-primary">Edit</th>
                         <th className = "table-danger">Delete</th>
                         
